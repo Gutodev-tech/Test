@@ -1,0 +1,28 @@
+
+Projeto: CapSutentabily
+
+Descrição:
+Ideia pessoal inspirada em sustentabilidade energética e tecnologia, com referência à empresa Capgemini.
+O projeto está em fase de ideias e será mantido como uma carta na manga para futuro crescimento profissional.
+
+Objetivo:
+Criar uma solução voltada à sustentabilidade, explorando conceitos técnicos como:
+- Score GenIA
+- ESG Data
+- CarbonAI
+
+Inspirações:
+- Repositório: https://github.com/contino/cloud-sustainability-dashboard   ;  https://github.com/Capgemini-Invent-France/CarbonAI
+- Iniciativas da Capgemini com IA e sustentabilidade corporativa
+
+Foco Futuro:
+- Criar um painel de métricas de sustentabilidade
+- Utilizar Angular + Tailwind + frameworks de IA (como LangChain ou modelos próprios)
+- Potencial visibilidade interna na Capgemini
+
+Status atual:
+- Projeto congelado temporariamente
+- Prioridades atuais: finalizar deploy do UEG Smart, concluir TCC e organizar portfólio pessoal
+
+Nota:
+Esse projeto pode ser ressuscitado após as entregas prioritárias ou como vitrine técnica em entrevistas futuras.
